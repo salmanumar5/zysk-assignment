@@ -1,6 +1,6 @@
 import Blog from "./components/Blog"
 import { Brands } from "./components/Brands"
-import Faq from "./components/faq"
+import Faq from "./components/Faq"
 import Features from "./components/Features"
 import Footer from "./components/Footer"
 import { Hero } from "./components/Hero"
